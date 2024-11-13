@@ -4,7 +4,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-brightgreen)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-Video_Processing-blue)
 ![YouTube](https://img.shields.io/badge/YouTube-Streaming-red)
-![Uptime](https://img.shields.io/badge/Uptime-99.9%25-success)
+
 
 ## 🎥 Overview
 
