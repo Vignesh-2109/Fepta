@@ -8,7 +8,7 @@
 
 ## 🎥 Overview
 
-**StreamAura** is a cutting-edge live streaming application that enables users to register, log in, and create up to **50 concurrent live streams**. With robust backend services and seamless video feed merging, StreamAura guarantees high-quality streaming directly to YouTube.
+**StreamAura** is a cutting-edge live streaming application that enables users to register, log in, and create live streams. With robust backend services and seamless video feed merging, StreamAura guarantees high-quality streaming directly to YouTube.
 
 ## ✨ Features
 
