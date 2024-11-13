@@ -13,17 +13,16 @@
 ## ✨ Features
 
 - **User Management**: User registration and login functionality.
-- **Live Streaming**: Create and manage up to 50 concurrent live streams.
-- **Video Feed Merging**: Incorporates overlays and merges video feeds using FFmpeg, enhancing stream quality by 30%.
+- **Live Streaming**: Create and manage live streams.
+- **Video Feed Merging**: Incorporates overlays and merges video feeds using FFmpeg, enhancing stream quality.
 - **YouTube Integration**: Streams directly to YouTube.
-- **Scalable Backend**: Supports over 10,000 users with 99.9% uptime using Node.js and MongoDB.
 
 ## 🛠️ Tech Stack
 
 - **Node.js**: Backend services for authentication and stream management.
 - **MongoDB**: Database for storing user and stream information.
 - **FFmpeg**: Video processing and feed merging.
-- **YouTube API**: Streaming destination.
+
   
 
 ## 🚀 Getting Started
@@ -65,7 +64,7 @@
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [FFmpeg Documentation](https://ffmpeg.org/documentation.html)
-- [YouTube API Documentation](https://developers.google.com/youtube/v3)
+
 
 ## 🤝 Contributing
 
